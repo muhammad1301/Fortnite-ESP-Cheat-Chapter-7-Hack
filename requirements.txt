@@ -1,0 +1,5 @@
+lxml
+psutil
+opencv-python
+numpy
+keyboard
